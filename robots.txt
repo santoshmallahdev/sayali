@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sayalipatil.in/sitemap.xml
